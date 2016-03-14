@@ -6,5 +6,6 @@ echo '24';
 echo '28';
 echo '26';
 echo '30';
+echo '32';
 
 ?>
