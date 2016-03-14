@@ -5,10 +5,10 @@ echo '16';
 echo '17';
 echo '18';
 echo '19';
-echo '20';
-echo '22';
-echo '23';
-echo '25';
-echo '31';
+echo '24';
+echo '28';
+echo '26';
+echo '30';
+echo '32';
 
 ?>
